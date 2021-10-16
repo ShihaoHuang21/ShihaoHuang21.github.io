@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-16T10:08:58.396Z</updated>
+  <updated>2021-10-16T10:24:02.017Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Vue3 学习笔记</title>
+    <link href="http://example.com/2021/10/16/vue3-xue-xi-bi-ji/"/>
+    <id>http://example.com/2021/10/16/vue3-xue-xi-bi-ji/</id>
+    <published>2021-10-16T10:21:19.000Z</published>
+    <updated>2021-10-16T10:24:02.017Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;vue学习笔记&quot;&gt;&lt;a href=&quot;#vue学习笔记&quot; class=&quot;headerlink&quot; title=&quot;vue学习笔记&quot;&gt;&lt;/a&gt;vue学习笔记&lt;/h1&gt;&lt;h1 id=&quot;一vue环境搭建-目录结构&quot;&gt;&lt;a href=&quot;#一vue环境搭建-目录结构&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Vue3" scheme="http://example.com/categories/Vue3/"/>
+    
+    
+    <category term="Vue3" scheme="http://example.com/tags/Vue3/"/>
+    
+    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
