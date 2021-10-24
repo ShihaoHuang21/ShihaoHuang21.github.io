@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-16T10:24:02.017Z</updated>
+  <updated>2021-10-24T13:44:59.225Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Node学习笔记</title>
+    <link href="http://example.com/2021/10/24/node-xue-xi-bi-ji/"/>
+    <id>http://example.com/2021/10/24/node-xue-xi-bi-ji/</id>
+    <published>2021-10-24T08:40:23.000Z</published>
+    <updated>2021-10-24T13:44:59.225Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;path-url模块使用&quot;&gt;&lt;a href=&quot;#path-url模块使用&quot; class=&quot;headerlink&quot; title=&quot;path,url模块使用&quot;&gt;&lt;/a&gt;path,url模块使用&lt;/h1&gt;&lt;pre class=&quot;line-numbers</summary>
+        
+      
+    
+    
+    
+    <category term="Node" scheme="http://example.com/categories/Node/"/>
+    
+    
+    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="Node" scheme="http://example.com/tags/Node/"/>
+    
+  </entry>
   
   <entry>
     <title>Vue3 学习笔记</title>
